@@ -16,7 +16,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "dev.brol1.bun-rive-expo"
     },
     "android": {
       "adaptiveIcon": {
